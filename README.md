@@ -1,5 +1,5 @@
 # safety-tracking-webapp💻
-a simple webapp to show location and current covid risks
+a webapp to show location and current covid risks
 It simply fetches data from an API with a dataset of COVID news worldwide and projects it to the application.
 # to run the program 🚀
 Clone the repository by writing:
