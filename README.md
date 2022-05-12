@@ -4,7 +4,7 @@ It simply fetches data from an API with a dataset of COVID news worldwide and pr
 # to run the program 🚀
 Clone the repository by writing:
 Git clone (+URL of this repo)
-Or download the zip and install nodejs and run it with react js 
+Or download the zip and install nodejs and run it 
 By simply writing: ~ npm start .
 
 
